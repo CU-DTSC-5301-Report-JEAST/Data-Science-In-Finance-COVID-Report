@@ -1,0 +1,736 @@
+Country Name,Month,Banking sector,Liquidity/funding,Payment systems,Financial Markets/NBFI,Insolvency
+Afghanistan,04,5,1,0,0,0
+Afghanistan,05,0,0,2,0,0
+Albania,03,3,2,0,0,0
+Albania,04,1,0,2,1,0
+Albania,05,5,0,0,0,1
+Albania,07,1,1,0,0,0
+Algeria,03,0,2,0,0,0
+Algeria,04,4,3,0,0,0
+Angola,03,1,0,0,0,0
+Angola,04,2,1,0,0,0
+Angola,05,1,0,0,0,0
+Anguilla,03,2,1,0,0,0
+Anguilla,04,0,1,0,0,0
+Antigua and Barbuda,03,2,1,0,0,0
+Antigua and Barbuda,04,1,1,0,0,0
+Argentina,01,0,0,1,0,0
+Argentina,03,7,3,3,0,1
+Argentina,04,11,0,0,6,0
+Argentina,05,4,0,0,5,0
+Argentina,06,9,0,2,2,0
+Argentina,07,1,0,2,3,0
+Argentina,08,3,1,0,2,0
+Argentina,09,1,0,1,0,0
+Argentina,10,3,1,0,0,0
+Argentina,12,6,0,1,0,0
+Armenia,03,1,1,0,0,0
+Armenia,04,0,1,0,0,0
+Armenia,05,7,0,1,0,0
+Armenia,06,0,1,0,0,0
+Armenia,09,1,0,0,0,0
+Australia,03,4,5,1,5,3
+Australia,04,5,0,1,2,0
+Australia,05,1,0,0,0,0
+Australia,06,3,0,0,0,0
+Australia,07,4,0,0,0,0
+Australia,08,1,0,0,0,0
+Australia,09,1,1,0,0,1
+Australia,10,0,0,0,1,0
+Australia,11,1,5,0,0,0
+Australia,12,1,0,0,0,0
+Azerbaijan,03,1,0,0,0,0
+Azerbaijan,04,12,0,1,10,0
+Azerbaijan,05,0,1,0,0,0
+Azerbaijan,06,6,1,2,1,0
+Azerbaijan,07,0,1,1,0,0
+Azerbaijan,08,0,0,1,0,0
+Azerbaijan,09,7,0,1,5,0
+Azerbaijan,12,12,0,1,10,0
+Bahrain,03,3,4,1,0,0
+Bangladesh,03,4,3,3,0,1
+Bangladesh,04,10,2,1,0,0
+Bangladesh,05,5,2,1,0,0
+Bangladesh,06,3,1,0,0,0
+Bangladesh,07,3,1,0,0,0
+Belarus,02,0,1,0,1,0
+Belarus,03,8,0,0,0,0
+Belarus,04,4,0,0,0,0
+Belarus,05,0,1,0,0,0
+Belarus,07,0,1,0,0,0
+Belize,03,4,1,0,0,0
+Belize,06,1,0,0,0,0
+Benin,03,2,2,1,1,0
+Benin,04,0,0,6,0,0
+Bhutan,03,1,0,0,0,0
+Bhutan,04,7,1,0,0,0
+Bhutan,05,1,0,0,0,0
+Bhutan,06,10,1,0,0,0
+Bolivia,01,1,0,0,0,0
+Bolivia,03,0,0,3,0,0
+Bolivia,04,1,1,0,0,0
+Bolivia,05,1,0,0,0,0
+Bolivia,07,0,1,0,0,0
+Bolivia,08,1,0,0,0,0
+Bosnia and Herzegovina,03,1,0,0,0,0
+Bosnia and Herzegovina,04,2,0,0,0,0
+Bosnia and Herzegovina,09,3,0,0,0,0
+Bosnia and Herzegovina,10,1,0,0,0,0
+Botswana,03,3,0,0,0,0
+Botswana,04,3,6,1,1,0
+Botswana,05,1,0,0,0,0
+Brazil,02,0,1,0,0,0
+Brazil,03,10,13,0,2,0
+Brazil,04,17,7,2,1,1
+Brazil,05,8,1,1,2,0
+Brazil,06,4,3,0,1,0
+Brazil,07,6,0,0,0,0
+Brazil,08,2,1,0,0,0
+Brazil,09,2,0,0,0,0
+Brazil,10,2,1,0,0,0
+Bulgaria,01,1,0,0,0,0
+Bulgaria,03,7,1,0,7,1
+Bulgaria,04,13,1,0,0,0
+Bulgaria,05,1,0,0,3,0
+Bulgaria,06,5,0,0,1,0
+Bulgaria,07,2,0,0,0,0
+Bulgaria,09,3,0,0,2,0
+Bulgaria,10,2,0,0,0,0
+Bulgaria,11,1,0,0,0,0
+Bulgaria,12,3,0,0,1,0
+Burkina Faso,03,2,2,1,1,0
+Burkina Faso,04,0,0,6,0,0
+Cambodia,02,1,0,0,0,0
+Cambodia,03,3,2,0,0,0
+Cambodia,06,1,0,0,0,0
+Cameroon,03,1,2,2,1,0
+Cameroon,04,1,0,0,0,0
+Canada,01,2,0,0,0,0
+Canada,03,11,12,0,2,0
+Canada,04,9,5,0,0,0
+Canada,05,4,0,0,2,1
+Canada,06,2,1,0,2,0
+Canada,08,2,0,0,1,0
+Canada,09,0,1,0,1,0
+Canada,10,1,2,0,0,0
+Canada,11,1,0,0,0,0
+Canada,12,1,0,0,0,0
+Central African Republic,03,1,2,0,1,0
+Central African Republic,04,1,0,0,0,0
+Chad,03,1,2,0,1,0
+Chad,04,1,0,0,0,0
+Chile,03,2,6,0,0,0
+Chile,04,4,0,0,1,0
+Chile,06,1,2,0,0,0
+Chile,07,4,4,0,1,0
+Chile,08,1,1,0,0,0
+China,02,2,1,0,0,1
+China,03,5,5,0,1,0
+China,04,3,6,0,0,0
+China,05,2,1,0,1,0
+China,06,2,1,0,3,0
+China,07,0,0,0,9,0
+China,08,0,1,0,0,0
+China,12,1,0,0,0,0
+Colombia,03,13,8,2,1,0
+Colombia,04,7,9,1,3,0
+Colombia,05,2,4,1,3,0
+Colombia,06,3,2,0,2,2
+Colombia,07,1,0,0,1,0
+Colombia,08,0,3,0,2,0
+Colombia,09,0,2,0,1,0
+Colombia,10,0,1,0,0,0
+Colombia,12,1,0,0,0,0
+Comoros,03,1,1,0,0,0
+Comoros,04,1,0,0,0,0
+Comoros,07,0,0,1,0,0
+Comoros,10,1,0,0,0,0
+"Congo, Dem. Rep.",03,0,3,4,0,0
+"Congo, Rep.",03,1,2,0,1,0
+"Congo, Rep.",04,1,0,0,0,0
+Costa Rica,03,2,2,0,0,0
+Costa Rica,04,0,0,1,0,0
+Costa Rica,06,0,1,0,0,0
+Costa Rica,09,1,0,0,0,0
+Cote d'Ivoire,03,2,2,1,1,0
+Cote d'Ivoire,04,0,0,6,0,0
+Croatia,01,1,0,0,0,0
+Croatia,03,13,2,2,7,0
+Croatia,04,11,1,1,0,0
+Croatia,05,1,0,0,4,0
+Croatia,06,4,0,0,1,0
+Croatia,08,0,1,0,0,0
+Croatia,09,2,0,0,2,0
+Croatia,10,1,0,0,0,0
+Croatia,12,3,0,0,1,0
+Czech Republic,01,1,0,0,0,0
+Czech Republic,03,6,3,0,4,0
+Czech Republic,04,14,0,0,0,0
+Czech Republic,05,2,1,0,4,0
+Czech Republic,06,4,0,0,1,0
+Czech Republic,07,1,0,0,0,0
+Czech Republic,09,1,0,0,2,0
+Czech Republic,10,1,0,0,0,0
+Czech Republic,12,3,0,0,1,0
+Djibouti,05,1,1,0,0,0
+Dominica,03,2,1,0,0,0
+Dominica,04,0,1,0,0,0
+Dominican Republic,03,4,4,1,0,0
+Dominican Republic,04,2,0,0,0,0
+Dominican Republic,05,0,0,0,1,0
+Dominican Republic,07,0,0,0,2,0
+Dominican Republic,08,0,3,0,0,0
+Dominican Republic,11,0,1,0,0,0
+Ecuador,03,3,0,0,0,0
+Ecuador,04,2,0,0,0,0
+"Egypt, Arab Rep.",03,4,1,3,1,1
+"Egypt, Arab Rep.",04,2,0,1,0,0
+"Egypt, Arab Rep.",05,9,0,1,1,0
+"Egypt, Arab Rep.",06,3,0,2,0,0
+"Egypt, Arab Rep.",09,1,1,2,1,0
+"Egypt, Arab Rep.",11,0,1,0,0,0
+El Salvador,02,1,0,0,0,0
+El Salvador,03,5,1,0,0,0
+El Salvador,04,1,0,1,0,0
+El Salvador,09,3,0,0,0,0
+Equatorial Guinea,03,1,2,0,1,0
+Equatorial Guinea,04,1,0,0,0,0
+Estonia,01,1,0,0,0,0
+Estonia,03,12,4,0,4,0
+Estonia,04,18,3,0,1,0
+Estonia,05,3,0,0,3,0
+Estonia,06,9,3,0,1,0
+Estonia,07,4,0,0,0,0
+Estonia,08,1,1,0,0,0
+Estonia,09,2,0,0,2,0
+Estonia,10,1,0,0,0,0
+Estonia,12,5,5,0,1,0
+Eswatini,03,4,3,0,0,0
+Eswatini,04,0,1,0,0,0
+Eswatini,05,0,1,0,0,0
+Eswatini,07,0,2,0,0,0
+Eswatini,09,1,0,0,0,0
+Ethiopia,03,1,1,1,0,0
+Ethiopia,04,5,0,0,0,0
+Fiji,03,3,2,0,0,0
+Fiji,04,1,0,0,1,0
+Fiji,06,1,0,0,0,0
+Fiji,10,2,0,0,0,0
+France,01,1,0,0,0,0
+France,02,1,0,0,0,0
+France,03,18,4,0,5,2
+France,04,17,3,0,3,0
+France,05,4,1,0,3,0
+France,06,7,3,0,1,0
+France,07,3,0,0,0,0
+France,08,1,1,0,0,0
+France,09,2,0,0,2,0
+France,10,1,0,0,0,0
+France,12,5,5,0,1,0
+G20,03,2,0,0,2,0
+G20,04,5,0,0,1,1
+G20,06,2,0,0,0,0
+G20,07,1,0,0,0,0
+G20,09,0,0,0,1,0
+G20,10,1,0,0,0,0
+Gabon,03,1,2,0,1,0
+Gabon,04,1,0,0,0,0
+"Gambia, The",02,0,1,0,0,0
+"Gambia, The",05,0,1,0,0,0
+Georgia,03,2,0,0,0,0
+Georgia,04,2,2,1,2,0
+Georgia,05,4,0,0,0,0
+Georgia,06,7,3,1,0,0
+Georgia,09,0,0,1,0,0
+Georgia,11,1,0,0,0,0
+Georgia,12,0,1,0,0,0
+Germany,01,1,0,0,0,0
+Germany,03,20,4,0,5,3
+Germany,04,18,3,0,0,0
+Germany,05,2,0,0,3,0
+Germany,06,7,3,0,1,0
+Germany,07,4,0,0,0,0
+Germany,08,2,1,0,0,0
+Germany,09,3,0,0,2,1
+Germany,10,1,0,0,0,0
+Germany,11,1,0,0,0,0
+Germany,12,5,5,0,1,0
+Ghana,03,5,3,3,1,0
+Ghana,04,1,0,1,0,0
+Ghana,05,1,4,0,0,0
+Grenada,03,2,1,0,0,0
+Grenada,04,0,1,0,0,0
+Guatemala,03,2,2,0,0,0
+Guatemala,04,1,0,0,0,0
+Guatemala,05,1,0,0,0,0
+Guatemala,07,1,0,0,0,0
+Guinea-Bissau,03,2,2,1,1,0
+Guinea-Bissau,04,0,0,6,0,0
+Guyana,03,4,0,2,4,0
+Guyana,08,2,0,0,0,0
+Haiti,03,3,3,2,0,0
+Honduras,03,0,2,0,0,0
+Honduras,04,1,2,0,0,0
+"Hong Kong SAR, China",01,1,0,0,0,0
+"Hong Kong SAR, China",02,2,0,0,1,1
+"Hong Kong SAR, China",03,2,2,0,1,0
+"Hong Kong SAR, China",04,6,1,0,0,0
+"Hong Kong SAR, China",05,3,0,0,0,1
+"Hong Kong SAR, China",06,1,0,0,1,0
+"Hong Kong SAR, China",07,1,0,0,0,0
+"Hong Kong SAR, China",08,1,0,0,0,0
+"Hong Kong SAR, China",09,4,0,0,1,0
+"Hong Kong SAR, China",12,0,1,0,0,0
+Hungary,01,1,0,0,0,0
+Hungary,03,5,2,0,4,0
+Hungary,04,15,3,0,2,0
+Hungary,05,2,2,0,3,0
+Hungary,06,6,1,0,1,0
+Hungary,07,1,2,1,0,0
+Hungary,08,0,0,0,1,0
+Hungary,09,3,1,0,2,0
+Hungary,10,1,0,0,0,0
+Hungary,12,3,0,0,1,0
+India,02,4,0,0,0,0
+India,03,4,7,1,8,2
+India,04,10,7,0,13,0
+India,05,17,5,1,8,2
+India,06,2,0,1,5,0
+India,07,0,2,0,5,0
+India,08,8,5,1,2,0
+India,09,4,0,0,1,0
+India,10,4,2,0,0,0
+India,11,1,0,0,0,0
+India,12,2,0,0,0,0
+Indonesia,02,1,2,0,0,0
+Indonesia,03,5,3,3,4,0
+Indonesia,04,5,4,2,4,0
+Indonesia,05,6,1,0,1,0
+Indonesia,06,2,1,0,0,0
+Indonesia,07,1,2,0,0,0
+Indonesia,09,1,0,0,0,0
+Indonesia,10,1,0,0,0,0
+"Iran, Islamic Rep.",03,1,0,1,0,0
+Iraq,05,0,1,1,0,0
+Israel,03,3,0,0,0,0
+Israel,04,3,2,0,0,0
+Israel,05,3,0,1,1,0
+Israel,07,2,3,0,0,0
+Italy,01,1,0,0,1,0
+Italy,03,25,4,0,11,1
+Italy,04,18,3,0,1,0
+Italy,05,5,0,0,3,0
+Italy,06,11,3,0,2,0
+Italy,07,7,0,0,2,0
+Italy,08,2,1,0,1,0
+Italy,09,3,0,0,2,0
+Italy,10,1,0,0,2,0
+Italy,12,7,5,0,1,0
+Jamaica,03,2,1,0,0,0
+Jamaica,04,3,1,1,0,0
+Jamaica,05,1,2,0,1,0
+Japan,02,1,0,0,0,0
+Japan,03,2,4,0,0,0
+Japan,04,2,5,1,0,1
+Japan,05,0,4,0,1,0
+Japan,06,1,0,0,0,0
+Japan,08,0,1,0,0,0
+Japan,09,0,1,0,0,0
+Japan,12,0,1,0,0,0
+Jordan,03,8,4,3,0,0
+Jordan,04,0,0,1,0,0
+Jordan,05,0,0,4,0,0
+Jordan,06,1,1,0,0,0
+Jordan,07,0,0,1,0,0
+Kazakhstan,03,3,1,0,0,0
+Kazakhstan,04,8,1,1,1,1
+Kazakhstan,05,1,0,0,1,0
+Kazakhstan,06,2,0,0,0,0
+Kazakhstan,07,0,1,0,0,0
+Kazakhstan,08,1,0,0,0,0
+Kazakhstan,09,1,0,0,0,0
+Kazakhstan,10,1,0,0,0,0
+Kenya,03,3,5,1,1,2
+Kenya,04,2,1,0,0,0
+Kenya,06,0,0,1,0,0
+Kenya,10,1,0,0,0,0
+Kenya,12,0,0,1,0,0
+"Korea, Rep.",01,1,0,0,0,0
+"Korea, Rep.",02,5,1,0,1,1
+"Korea, Rep.",03,14,5,0,4,0
+"Korea, Rep.",04,26,3,2,1,0
+"Korea, Rep.",05,4,2,0,12,0
+"Korea, Rep.",06,6,2,0,0,0
+"Korea, Rep.",07,2,2,0,0,0
+"Korea, Rep.",08,1,0,0,2,0
+"Korea, Rep.",09,3,0,0,0,0
+"Korea, Rep.",10,1,0,0,0,0
+"Korea, Rep.",11,1,0,0,0,0
+"Korea, Rep.",12,2,1,0,0,0
+Kosovo,03,4,0,0,0,0
+Kosovo,04,2,1,0,0,0
+Kosovo,06,1,0,0,0,0
+Kuwait,03,2,2,1,0,0
+Kuwait,04,4,0,0,0,0
+Kyrgyz Republic,03,10,2,0,0,0
+Kyrgyz Republic,04,5,0,0,0,0
+Kyrgyz Republic,05,1,0,0,0,0
+Kyrgyz Republic,06,0,0,0,1,0
+Lao PDR,03,3,2,0,0,0
+Latvia,01,1,0,0,0,0
+Latvia,03,12,4,0,4,1
+Latvia,04,13,3,0,0,0
+Latvia,05,4,0,0,3,0
+Latvia,06,7,3,0,1,0
+Latvia,07,4,0,0,0,0
+Latvia,08,1,1,0,0,0
+Latvia,09,2,0,0,2,0
+Latvia,10,1,0,0,0,0
+Latvia,12,5,5,0,1,0
+Lebanon,03,1,0,0,0,0
+Lebanon,04,1,0,0,0,0
+Lebanon,05,1,0,0,0,0
+Lesotho,03,0,1,1,0,0
+Lesotho,04,3,1,0,1,0
+Lesotho,05,0,1,0,0,0
+Lesotho,07,0,1,0,0,0
+Liberia,03,2,0,1,0,0
+Liberia,05,0,1,0,0,0
+Liberia,07,0,0,1,0,0
+Libya,03,1,0,0,0,0
+Lithuania,01,1,0,0,0,0
+Lithuania,03,11,4,0,4,0
+Lithuania,04,16,4,0,0,0
+Lithuania,05,2,0,0,3,0
+Lithuania,06,7,3,0,1,0
+Lithuania,07,3,0,0,0,0
+Lithuania,08,1,1,0,0,0
+Lithuania,09,2,0,0,2,0
+Lithuania,10,1,0,0,0,0
+Lithuania,12,5,5,0,1,0
+Madagascar,03,3,1,1,0,0
+Madagascar,04,2,1,0,0,0
+Malawi,04,9,3,5,0,0
+Malawi,10,0,3,0,0,0
+Malawi,12,1,0,0,0,0
+Malaysia,02,6,0,0,5,0
+Malaysia,03,6,2,2,3,1
+Malaysia,04,3,0,0,0,1
+Malaysia,05,0,2,0,1,0
+Malaysia,06,2,0,0,0,0
+Malaysia,07,2,1,0,0,0
+Malaysia,09,0,1,0,0,0
+Maldives,03,2,2,0,0,0
+Maldives,04,2,0,0,0,0
+Maldives,05,1,0,0,0,0
+Mali,03,2,2,1,1,0
+Mali,04,0,0,6,0,0
+Mauritania,03,0,3,0,0,0
+Mauritius,03,6,4,4,1,0
+Mauritius,04,1,1,0,0,0
+Mauritius,05,2,0,0,0,0
+Mauritius,06,0,1,0,0,0
+Mexico,02,1,0,0,0,0
+Mexico,03,3,4,0,3,0
+Mexico,04,17,15,0,6,0
+Mexico,05,1,2,0,0,0
+Mexico,06,7,4,1,1,0
+Mexico,07,0,2,0,1,0
+Mexico,08,0,1,0,1,0
+Mexico,09,8,2,0,0,0
+Mexico,10,1,0,0,0,0
+"Micronesia, Fed. Sts.",04,1,0,0,0,0
+Moldova,03,3,4,0,0,0
+Moldova,04,3,2,0,0,0
+Moldova,06,0,0,2,0,0
+Moldova,11,0,1,0,0,0
+Mongolia,03,2,3,0,0,0
+Mongolia,04,1,1,0,0,0
+Mongolia,06,1,0,0,0,0
+Montenegro,03,4,0,0,0,0
+Montenegro,04,1,0,0,0,0
+Montenegro,05,1,1,0,0,0
+Montenegro,09,1,0,0,0,0
+Montserrat,03,2,1,0,0,0
+Montserrat,04,0,1,0,0,0
+Morocco,03,2,2,0,0,0
+Morocco,04,2,0,0,0,0
+Morocco,05,2,0,0,0,0
+Morocco,06,5,2,1,0,0
+Mozambique,03,3,2,2,0,0
+Mozambique,04,0,1,0,0,0
+Mozambique,05,0,1,0,0,0
+Mozambique,06,1,2,0,0,0
+Mozambique,07,0,0,2,0,0
+Mozambique,10,0,0,1,0,0
+Myanmar,03,1,2,0,0,0
+Myanmar,04,7,3,1,0,0
+Namibia,03,4,1,0,0,0
+Namibia,04,0,1,0,0,0
+Namibia,06,0,1,0,0,0
+Nepal,02,1,0,0,0,0
+Nepal,03,11,3,1,1,0
+Nepal,04,14,1,0,0,0
+Nepal,05,0,0,0,1,0
+Nepal,07,3,0,0,0,0
+Nepal,08,1,0,0,0,0
+Nicaragua,03,0,2,0,0,0
+Nicaragua,05,1,0,0,0,0
+Nicaragua,06,2,1,0,0,0
+Niger,03,2,2,1,1,0
+Niger,04,0,0,6,0,0
+Nigeria,03,4,2,2,0,1
+Nigeria,04,2,1,0,0,0
+Nigeria,05,0,1,0,3,0
+Nigeria,09,1,0,0,0,0
+North Macedonia,02,1,0,0,0,0
+North Macedonia,03,3,3,0,0,0
+North Macedonia,04,1,0,0,0,0
+North Macedonia,05,1,1,0,0,0
+North Macedonia,08,0,1,0,0,0
+North Macedonia,09,2,0,0,0,0
+Oman,03,4,1,2,0,0
+Oman,04,1,0,0,0,0
+Pakistan,03,7,3,4,0,0
+Pakistan,04,3,1,0,1,0
+Pakistan,05,3,1,0,2,0
+Pakistan,06,1,1,0,0,0
+Pakistan,07,3,1,0,0,0
+Panama,03,3,0,1,0,0
+Panama,04,1,0,0,0,0
+Panama,06,2,0,0,0,0
+Papua New Guinea,03,1,6,0,0,0
+Papua New Guinea,04,1,0,0,0,0
+Paraguay,03,0,4,0,0,0
+Paraguay,04,2,3,0,0,0
+Paraguay,06,0,1,0,0,0
+Peru,03,4,3,0,1,0
+Peru,04,3,2,0,1,0
+Peru,05,6,0,2,2,0
+Peru,06,4,1,0,0,1
+Peru,07,3,1,0,0,0
+Peru,08,1,5,0,0,0
+Peru,09,1,0,0,0,0
+Philippines,02,0,1,0,0,0
+Philippines,03,14,4,2,3,0
+Philippines,04,6,4,5,0,0
+Philippines,05,3,1,2,0,0
+Philippines,06,4,1,0,1,0
+Philippines,07,1,1,0,0,0
+Philippines,08,1,0,0,0,0
+Philippines,09,2,0,0,0,0
+Philippines,11,0,1,0,0,0
+Poland,01,1,0,0,0,0
+Poland,03,9,5,0,4,1
+Poland,04,10,1,0,0,0
+Poland,05,2,1,0,3,0
+Poland,06,4,0,0,1,0
+Poland,07,1,0,0,0,0
+Poland,09,1,0,0,2,0
+Poland,10,1,0,0,0,0
+Poland,12,3,0,0,1,0
+Qatar,03,3,2,1,0,0
+Romania,01,1,0,0,0,0
+Romania,03,9,4,1,4,0
+Romania,04,11,1,0,0,0
+Romania,05,1,1,0,4,0
+Romania,06,4,1,0,1,0
+Romania,07,2,0,0,0,0
+Romania,08,0,3,0,0,0
+Romania,09,1,0,0,2,0
+Romania,10,1,0,0,0,0
+Romania,12,3,0,0,1,0
+Russian Federation,02,0,1,0,0,0
+Russian Federation,03,11,2,1,1,0
+Russian Federation,04,13,1,5,3,2
+Russian Federation,05,3,1,1,2,0
+Russian Federation,06,7,1,1,3,0
+Russian Federation,07,10,1,0,0,0
+Russian Federation,08,3,0,0,0,0
+Russian Federation,10,1,0,0,0,0
+Rwanda,03,1,3,1,0,0
+Rwanda,04,0,1,0,0,0
+Rwanda,06,2,0,0,0,0
+Samoa,03,1,0,0,0,0
+Samoa,04,1,0,0,0,0
+Sao Tome and Principe,04,1,2,0,0,0
+Sao Tome and Principe,05,2,0,0,0,0
+Sao Tome and Principe,09,1,0,0,0,0
+Saudi Arabia,03,5,2,3,0,0
+Saudi Arabia,04,2,0,2,0,0
+Saudi Arabia,05,0,0,1,3,0
+Saudi Arabia,06,1,1,0,0,0
+Saudi Arabia,09,2,0,0,0,0
+Senegal,03,2,2,2,1,0
+Senegal,04,0,0,6,0,0
+Serbia,03,2,4,1,0,0
+Serbia,04,0,2,0,0,0
+Serbia,05,2,0,0,2,0
+Serbia,06,1,1,0,0,0
+Serbia,07,2,3,1,0,0
+Serbia,12,1,1,0,0,0
+Seychelles,03,2,1,1,0,0
+Seychelles,04,1,0,0,0,0
+Sierra Leone,03,0,2,0,1,0
+Singapore,03,8,2,0,3,0
+Singapore,04,9,1,2,4,3
+Singapore,05,0,0,0,1,0
+Singapore,06,1,0,0,0,0
+Singapore,07,3,0,0,0,0
+Singapore,08,1,0,0,0,0
+Singapore,09,0,2,0,0,0
+Singapore,10,3,0,0,0,0
+Slovak Republic,01,1,0,0,0,0
+Slovak Republic,03,17,4,0,4,0
+Slovak Republic,04,14,3,0,0,0
+Slovak Republic,05,2,0,0,3,0
+Slovak Republic,06,7,3,0,1,0
+Slovak Republic,07,4,0,0,0,0
+Slovak Republic,08,1,1,0,0,0
+Slovak Republic,09,2,0,0,2,0
+Slovak Republic,10,1,0,0,0,0
+Slovak Republic,12,5,5,0,1,0
+Slovenia,01,1,0,0,0,0
+Slovenia,03,12,4,0,4,0
+Slovenia,04,14,3,1,0,0
+Slovenia,05,3,0,0,3,0
+Slovenia,06,8,3,0,1,0
+Slovenia,07,4,0,0,0,0
+Slovenia,08,1,1,0,0,0
+Slovenia,09,2,0,0,2,0
+Slovenia,10,1,0,0,0,0
+Slovenia,12,5,5,0,1,0
+Solomon Islands,05,1,0,0,0,0
+Solomon Islands,06,0,1,0,0,0
+South Africa,02,1,0,0,0,0
+South Africa,03,8,7,0,0,1
+South Africa,04,10,1,0,6,0
+South Africa,05,5,2,0,2,0
+South Africa,06,1,0,0,1,0
+South Africa,07,1,1,0,0,0
+South Africa,09,1,0,0,0,0
+South Sudan,07,2,2,1,0,0
+Spain,01,1,0,0,0,0
+Spain,02,1,0,0,0,0
+Spain,03,24,4,1,5,3
+Spain,04,15,3,0,1,1
+Spain,05,6,0,0,3,0
+Spain,06,11,3,0,1,0
+Spain,07,8,0,0,0,0
+Spain,08,1,1,0,0,0
+Spain,09,2,0,0,2,0
+Spain,10,1,0,0,0,0
+Spain,11,1,0,0,0,0
+Spain,12,5,5,0,1,0
+Sri Lanka,01,2,0,0,1,0
+Sri Lanka,02,0,0,0,1,0
+Sri Lanka,03,14,4,4,4,1
+Sri Lanka,04,4,3,7,6,0
+Sri Lanka,05,13,4,2,2,0
+Sri Lanka,06,3,2,2,3,0
+Sri Lanka,07,4,4,0,2,0
+Sri Lanka,08,2,0,0,1,0
+Sri Lanka,10,2,0,0,0,0
+Sri Lanka,11,3,0,0,0,0
+Sri Lanka,12,1,0,0,2,0
+St. Kitts and Nevis,03,2,1,0,0,0
+St. Kitts and Nevis,04,0,1,0,0,0
+St. Lucia,03,2,1,0,0,0
+St. Lucia,04,0,1,0,0,0
+St. Vincent and the Grenadines,03,2,1,0,0,0
+St. Vincent and the Grenadines,04,0,1,0,0,0
+Sudan,05,2,0,2,0,0
+Suriname,05,2,1,0,0,0
+Suriname,09,0,1,0,0,0
+Tajikistan,03,0,0,0,1,0
+Tajikistan,04,0,1,0,0,0
+Tajikistan,05,2,1,1,0,0
+Tajikistan,08,0,1,0,0,0
+Tanzania,01,1,0,0,0,0
+Tanzania,05,1,2,1,0,0
+Tanzania,06,0,1,0,0,0
+Thailand,02,0,1,0,0,0
+Thailand,03,8,2,1,2,0
+Thailand,04,4,0,0,0,0
+Thailand,05,0,1,0,1,0
+Thailand,06,2,0,0,0,0
+Thailand,07,1,1,0,0,0
+Thailand,09,2,0,0,0,0
+Togo,03,2,2,1,1,0
+Togo,04,1,0,6,0,0
+Trinidad and Tobago,03,2,2,0,0,0
+Trinidad and Tobago,04,1,0,0,0,0
+Tunisia,03,2,1,2,0,0
+Turkey,01,1,0,0,0,0
+Turkey,02,0,0,0,1,0
+Turkey,03,17,13,0,3,1
+Turkey,04,7,5,0,1,0
+Turkey,05,6,3,0,0,0
+Turkey,06,3,2,0,0,0
+Turkey,07,1,1,0,0,0
+Turkey,08,2,9,0,0,0
+Turkey,09,1,0,0,0,0
+Turkey,10,0,1,0,0,0
+Turkey,11,1,0,0,0,0
+Turkey,12,1,0,0,0,0
+Uganda,02,0,0,1,0,0
+Uganda,03,2,1,1,1,0
+Uganda,04,6,3,0,0,0
+Uganda,06,1,1,0,0,0
+Ukraine,03,4,2,3,1,0
+Ukraine,04,2,1,0,3,0
+Ukraine,05,1,0,1,1,0
+Ukraine,06,3,1,0,0,0
+Ukraine,07,1,0,0,0,0
+Ukraine,08,0,0,0,1,0
+Ukraine,09,2,0,0,0,0
+Ukraine,12,2,0,0,0,0
+United Arab Emirates,03,8,3,1,1,0
+United Arab Emirates,04,5,2,0,1,0
+United Arab Emirates,05,1,0,0,0,0
+United Arab Emirates,08,1,0,0,0,0
+United Kingdom,03,10,6,0,1,3
+United Kingdom,04,10,4,1,0,1
+United Kingdom,05,9,1,1,1,0
+United Kingdom,06,1,1,2,1,1
+United Kingdom,07,5,0,0,0,0
+United Kingdom,08,1,1,1,0,0
+United Kingdom,09,4,0,0,1,0
+United Kingdom,10,2,0,0,1,0
+United Kingdom,11,2,0,0,0,0
+United Kingdom,12,2,0,0,0,0
+United States,03,5,12,0,1,0
+United States,04,12,9,0,3,1
+United States,05,11,0,0,2,0
+United States,06,11,3,0,2,0
+United States,07,2,4,0,2,0
+United States,08,3,0,0,2,0
+United States,09,2,0,0,0,0
+United States,10,3,1,0,0,0
+United States,11,0,4,0,0,0
+United States,12,2,2,0,0,0
+Uruguay,03,7,0,2,0,0
+Uruguay,04,2,1,0,0,0
+Uruguay,05,3,0,0,1,0
+Uruguay,06,1,0,0,0,0
+Uruguay,12,2,0,0,0,0
+Uzbekistan,03,5,1,0,0,0
+Uzbekistan,04,2,3,0,0,0
+Uzbekistan,05,1,0,0,0,0
+Uzbekistan,07,1,0,0,0,0
+Uzbekistan,10,3,0,0,0,0
+Vietnam,03,3,1,0,1,0
+Vietnam,04,1,0,1,0,0
+Vietnam,05,2,1,1,1,0
+Vietnam,08,0,1,0,0,0
+West Bank and Gaza,03,2,0,2,0,0
+West Bank and Gaza,04,0,0,1,0,0
+Zambia,03,0,0,1,0,0
+Zambia,04,4,2,1,2,0
+Zambia,05,0,1,0,0,0
+Zimbabwe,02,0,1,0,0,0
+Zimbabwe,03,2,4,0,1,0
+Zimbabwe,04,1,2,0,0,0
+Zimbabwe,05,7,2,0,0,0
+Zimbabwe,06,0,2,1,1,0
+Zimbabwe,07,0,1,0,0,0
